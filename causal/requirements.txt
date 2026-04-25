@@ -1,0 +1,7 @@
+pandas
+numpy 
+matplotlib
+pymc
+pytensor
+arviz
+scipy==1.12.0
